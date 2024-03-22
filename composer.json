@@ -13,10 +13,7 @@
     "require": {
         "symfony/event-dispatcher": "^5.4",
         "firebase/php-jwt": "^6.8",
-        "aws/aws-sdk-php": "2.*",
-        "behat/behat": "^3.14",
-        "behat/mink-extension": "^2.3",
-        "behat/mink-goutte-driver": "^2.0"
+        "aws/aws-sdk-php": "2.*"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.6"
