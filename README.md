@@ -1,4 +1,4 @@
-# Tech Challenge - Sistema de Registro de Ponto - Serviço: Autenticação/Colaboradores
+# Hackathon - Sistema de Registro de Ponto - Serviço: Autenticação/Colaboradores
 
 Esta documentação tem o intuito de orientar sobre a configuração e utilização correta do sistema de registros de ponto para o serviço: Autenticação/Colaboradores, que é responsável por cadastrar um novo colaborador e gerar um token válido que será usado durante as requisições de registrar ponto, obter registros, obter espelho de ponto, entre outros. 
 
